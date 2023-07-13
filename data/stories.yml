@@ -28,3 +28,10 @@ stories:
   - action: utter_did_that_help
   - intent: deny
   - action: utter_goodbye
+
+-story: handling insulting words
+ steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: handle_insult
+  - action: utter_handleinsult

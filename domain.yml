@@ -8,10 +8,14 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
+  - handle_insult
 
 responses:
   utter_greet:
-  - text: "Hey! How are you?"
+  - text: "Hey! How are you doing?"
+  - text: Hello, How can I help you ?
+  - text: Hi. What are you looking for?
+  - text: Hello! What can I help you find today?
 
   utter_cheer_up:
   - text: "Here is something to cheer you up:"
@@ -25,9 +29,13 @@ responses:
 
   utter_goodbye:
   - text: "Bye"
+  - text: "Have a nice day"
 
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
+
+  utter_handleinsult:
+  - text: That’s not very nice 😢
 
 session_config:
   session_expiration_time: 60
