@@ -1,0 +1,32 @@
+{
+  "utter_faq/ask_corona": [
+    {
+      "text": "Coronaviruses are a large family of viruses that can cause illness in animals and humans. In humans, they can lead to respiratory infections ranging from the common cold to more severe diseases such as COVID-19. COVID-19 is caused by the novel coronavirus SARS-CoV-2 and was first identified in late 2019 in Wuhan, China. It quickly spread to become a global pandemic, affecting millions of people worldwide. It's crucial to follow public health guidelines to protect yourself and others from this virus."
+    }
+  ],
+  "utter_faq/ask_spread": [
+    {
+      "text": "The coronavirus primarily spreads through respiratory droplets when an infected person coughs, sneezes, talks, or breathes. It can also spread by touching surfaces or objects contaminated with the virus and then touching your face, especially your mouth, nose, or eyes."
+    }
+  ],
+  "utter_faq/ask_symptoms": [
+    {
+      "text": "Common symptoms of COVID-19 include fever, cough, shortness of breath, fatigue, body aches, loss of taste or smell, sore throat, and headache. In severe cases, it can lead to pneumonia, acute respiratory distress syndrome (ARDS), and organ failure."
+    }
+  ],
+  "utter_faq/ask_treatments": [
+    {
+      "text": "The treatment for COVID-19 varies depending on the severity of the symptoms. Mild cases can usually be managed with rest, fluids, and over-the-counter medications to relieve symptoms like fever and cough. For severe cases, medical intervention and hospitalization may be necessary. Antiviral drugs and other medications are used in some cases, but there is no specific cure for the virus. It's essential to follow the advice of healthcare professionals if you or someone you know is diagnosed with COVID-19."
+    }
+  ],
+  "utter_faq/ask_government_reg": [
+    {
+      "text": "The requirements for government registration and reporting of COVID-19 cases may vary depending on your location and the local regulations. In some places, it might be mandatory to report positive cases to the government health authorities. It's essential to check the guidelines provided by your local health department or government website for specific instructions on registration and reporting of COVID-19 cases."
+    }
+  ],
+  "utter_faq/ask_hospital_visit": [
+    {
+      "text": "If you suspect you have COVID-19 or experience severe symptoms, it's crucial to seek medical attention promptly. Emergency warning signs that require immediate medical attention include difficulty breathing, persistent chest pain or pressure, confusion, bluish lips or face, and inability to wake or stay awake. If you experience any of these symptoms or have underlying health conditions that put you at higher risk, do not hesitate to go to the nearest hospital or call for emergency medical services."
+    }
+  ]
+}

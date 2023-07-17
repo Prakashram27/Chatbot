@@ -29,9 +29,23 @@ stories:
   - intent: deny
   - action: utter_goodbye
 
--story: handling insulting words
- steps:
+- story: handling insulting words
+  steps:
   - intent: greet
   - action: utter_greet
   - intent: handle_insult
   - action: utter_handleinsult
+
+# - story: happy path
+#   steps:
+#   - intent: greet
+#   - action: utter_greet
+#   - intent: affirm
+#   - action: utter_faq
+
+# - story: sad path
+#   steps:
+#   - intent: greet
+#   - action: utter_greet
+#   - intent: deny
+#   - action: utter_goodbye
