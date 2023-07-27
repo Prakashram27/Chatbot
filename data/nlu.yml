@@ -4,6 +4,7 @@ nlu:
 - intent: greet
   examples: |
     - hey
+    - hai
     - hello
     - hi
     - hello there
@@ -262,7 +263,13 @@ nlu:
 
 - intent: faq/ask_corona
   examples: |
+    - corona
+    - covid-19
+    - SARS-CoV-2
+    - SEVERE ACUTE RESPIRATORY SYNDROME CORONAVIRUS 2
     - What is coronavirus?
+    - novel severe acute respiratory syndrome coronavirus
+    - Omicron
     - Can you explain what coronavirus is?
     - I've been hearing about coronavirus. What exactly is it?
     - What are coronaviruses, and how do they affect humans?
@@ -272,6 +279,10 @@ nlu:
     - Is coronavirus the same as the flu?
     - Can you tell me about the origin of the coronavirus?
     - How did the coronavirus pandemic start?
+
+- intent: faq/Variants of covid virus
+  examples: |
+    - variants for sars-cov-2
 
 - intent: faq/ask_precautions
   examples: | 
